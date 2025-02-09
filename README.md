@@ -1,13 +1,10 @@
 # how-start-a-startup
 
-## Start
+## 💡 Idea
 
-### 💡 Idea
+## 🗳️ Product
 
-### 🗳️ Product
+## 🤼 Team
 
-### 🤼 Team
-
-### 🥊 Execution
-
+## 🥊 Execution
 
